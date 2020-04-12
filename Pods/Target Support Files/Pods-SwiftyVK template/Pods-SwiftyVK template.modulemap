@@ -1,0 +1,6 @@
+framework module Pods_SwiftyVK_template {
+  umbrella header "Pods-SwiftyVK template-umbrella.h"
+
+  export *
+  module * { export * }
+}
